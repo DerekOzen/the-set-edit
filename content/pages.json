@@ -10,11 +10,12 @@
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
     "status": "published",
-    "updatedAt": "2026-09-02T12:11:52.379Z",
+    "updatedAt": "2026-09-02T12:18:51.111Z",
     "updatedBy": "alper",
     "createdAt": "2026-09-02T12:11:31.425Z",
     "createdBy": "alper",
-    "isHome": true
+    "isHome": true,
+    "noindex": true
   },
   {
     "id": "pg-2",
