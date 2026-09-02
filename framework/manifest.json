@@ -1,0 +1,10 @@
+{
+  "version": "1.3.44",
+  "files": [
+    "functions/_middleware.js",
+    "functions/admin/[[path]].js",
+    "app/page.tsx",
+    "app/[...slug]/page.tsx",
+    "components/mockup-page.tsx"
+  ]
+}
