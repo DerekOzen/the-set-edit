@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "pg-1",
+    "path": "/home",
+    "type": "page",
+    "title": "Home",
+    "seoTitle": "Event Styling & Prop Hire Inspiration Australia | The Set Edit",
+    "seoDescription": "Design-led event styling and prop hire inspiration for weddings, milestone events and corporate spaces across Australia. Build your brief — free, no obligation.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-09-02T12:11:31.425Z",
+    "updatedBy": "alper",
+    "createdAt": "2026-09-02T12:11:31.425Z",
+    "createdBy": "alper"
+  }
+]
