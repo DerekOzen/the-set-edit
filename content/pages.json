@@ -15,5 +15,21 @@
     "createdAt": "2026-09-02T12:11:31.425Z",
     "createdBy": "alper",
     "isHome": true
+  },
+  {
+    "id": "pg-2",
+    "path": "/thank-you",
+    "type": "page",
+    "title": "Thank You",
+    "seoTitle": "Thank You — Your Brief Is In | The Set Edit",
+    "seoDescription": "Thank you for your brief. The Set Edit is matching your request to relevant event styling and hire professionals in your area.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-09-02T12:12:44.673Z",
+    "updatedBy": "alper",
+    "createdAt": "2026-09-02T12:12:44.673Z",
+    "createdBy": "alper"
   }
 ]
