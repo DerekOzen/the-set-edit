@@ -27,9 +27,10 @@
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
     "status": "published",
-    "updatedAt": "2026-09-02T12:13:06.863Z",
+    "updatedAt": "2026-09-02T12:13:31.793Z",
     "updatedBy": "alper",
     "createdAt": "2026-09-02T12:12:44.673Z",
-    "createdBy": "alper"
+    "createdBy": "alper",
+    "noindex": true
   }
 ]
