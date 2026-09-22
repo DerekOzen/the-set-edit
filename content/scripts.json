@@ -1,0 +1,5 @@
+{
+  "header": "",
+  "body": "<script>\n(function () {\n  function setBrief(open) {\n    var cb = document.getElementById('brief-toggle');\n    if (cb) cb.checked = open;\n  }\n  document.addEventListener('click', function (e) {\n    if (e.target.closest('[data-brief-open]')) { e.preventDefault(); setBrief(true); }\n    else if (e.target.closest('[data-brief-close]')) { e.preventDefault(); setBrief(false); }\n  });\n}());\n</script>",
+  "footer": ""
+}
