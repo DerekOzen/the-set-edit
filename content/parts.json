@@ -20,7 +20,8 @@
     "fonts": [
       "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&family=PT+Mono&display=swap"
     ],
-    "updatedAt": "2026-09-02T12:11:29.158Z"
+    "updatedAt": "2026-09-22T03:14:19.544Z",
+    "deleted": true
   },
   {
     "id": "header-2",
@@ -43,7 +44,8 @@
     "fonts": [
       "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
     ],
-    "updatedAt": "2026-09-22T02:43:54.203Z"
+    "updatedAt": "2026-09-22T03:14:19.544Z",
+    "deleted": true
   },
   {
     "id": "header-3",
