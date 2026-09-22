@@ -91,7 +91,8 @@
     "fonts": [
       "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
     ],
-    "updatedAt": "2026-09-22T03:45:26.523Z"
+    "updatedAt": "2026-09-22T04:11:35.840Z",
+    "deleted": true
   },
   {
     "id": "header-6",
