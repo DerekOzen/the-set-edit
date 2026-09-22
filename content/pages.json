@@ -37,7 +37,7 @@
   },
   {
     "id": "pg-3",
-    "path": "/home",
+    "path": "/",
     "type": "page",
     "title": "Event Hire, Stylists & Decorators Across Australia | The Set Edit",
     "seoTitle": "Event Hire, Stylists & Decorators Across Australia | The Set Edit",
@@ -45,10 +45,11 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-22T02:43:56.954Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-22T02:43:56.954Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-22T02:44:19.468Z",
+    "updatedBy": "joshua",
+    "isHome": true
   }
 ]
