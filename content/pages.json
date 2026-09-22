@@ -45,12 +45,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-09-22T02:43:56.954Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-22T02:44:19.468Z",
+    "updatedAt": "2026-09-22T03:11:12.698Z",
     "updatedBy": "joshua",
-    "isHome": true
+    "isHome": false
   },
   {
     "id": "pg-4",
