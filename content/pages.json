@@ -34,5 +34,21 @@
     "createdBy": "alper",
     "noindex": true,
     "isHome": false
+  },
+  {
+    "id": "pg-3",
+    "path": "/home",
+    "type": "page",
+    "title": "Event Hire, Stylists & Decorators Across Australia | The Set Edit",
+    "seoTitle": "Event Hire, Stylists & Decorators Across Australia | The Set Edit",
+    "seoDescription": "Find event hire companies, stylists and event decorators across Australia. Browse furniture, tableware, backdrops, marquees and lighting, then request quotes.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-09-22T02:43:56.954Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-09-22T02:43:56.954Z",
+    "updatedBy": "joshua"
   }
 ]
