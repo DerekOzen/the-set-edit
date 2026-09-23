@@ -1,10 +1,10 @@
 {
   "name": "The Set Edit",
   "tagline": "Find Event Hire, Party Hire & Event Styling Services Across Australia.",
-  "phone": "",
-  "email": "thesetedit.com.au",
+  "phone": "N/A",
+  "email": "info@thesetedit.com.au",
   "areas": "AUSTRALIA",
-  "hoursWeek": "Mon–Fri 9am–5pm",
-  "hoursSat": "Closed",
-  "siteUrl": "https://thesetedit.com.au"
+  "hoursWeek": "9am–5pm",
+  "hoursSat": "9am–5pm",
+  "siteUrl": "https://thesetedit.com.au/"
 }
