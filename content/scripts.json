@@ -1,5 +1,5 @@
 {
-  "header": "",
+  "header": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-WGX1TSDQG5\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-WGX1TSDQG5');\n</script>",
   "body": "<script>\n(function () {\n  function setBrief(open) {\n    var cb = document.getElementById('brief-toggle');\n    if (cb) cb.checked = open;\n  }\n  document.addEventListener('click', function (e) {\n    if (e.target.closest('[data-brief-open]')) { e.preventDefault(); setBrief(true); }\n    else if (e.target.closest('[data-brief-close]')) { e.preventDefault(); setBrief(false); }\n  });\n}());\n</script>",
-  "footer": ""
+  "footer": "<script>\n  window.addEventListener('load',function(){\n    var x = 0;\n    var timer=setInterval(function(){\n      if(jQuery('.forms-confirmation-container-full').is(\":visible\")){\n        if(x==0){\n          gtag('event','submit',{'event_category':'form','event_label':window.location.pathname})\n          x=1;\n        }\n        clearInterval(timer);\n      }\n    })\n    jQuery('[href*=\"tel:\"],[href*=\"Tel:\"]').click(function(){\n      gtag('event','click',{'event_category':'number','event_label':jQuery(this).attr('href')})\n    })\n  })\n</script>"
 }
