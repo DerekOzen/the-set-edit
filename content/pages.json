@@ -12,9 +12,11 @@
     "status": "published",
     "createdAt": "2026-09-22T03:12:13.609Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-23T02:24:29.701Z",
-    "updatedBy": "joshua",
-    "isHome": true
+    "updatedAt": "2026-10-12T06:04:59.447Z",
+    "updatedBy": "sebastian",
+    "isHome": true,
+    "featuredImage": "/uploads/featured-event-hire-stylists-decorators-across-australia-th-ul12t.jpg",
+    "featuredImageAlt": "Set the scene. Find event hire companies, stylists and decorators across Australia"
   },
   {
     "id": "pg-2",
